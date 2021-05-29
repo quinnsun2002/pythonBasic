@@ -1,0 +1,2 @@
+# pythonBasic
+basic python knowledge
